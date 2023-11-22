@@ -1,3 +1,7 @@
+This repo is unmaintained, please rather use Ollama with continue.dev as described here: https://github.com/nistvan86/continuedev-llamacpp-gpu-llm-server/issues/1#issuecomment-1822391864
+
+---
+
 # continue.dev GGML client + llama-cpp-python server with GGUF model and GPU offloading
 This a sample Windows helper repo which uses llama-cpp-python with a GGUF model and NVIDIA GPU offloading to serve as a local LLM for the continue.dev VSCode extension.
 
